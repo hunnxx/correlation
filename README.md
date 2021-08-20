@@ -12,14 +12,14 @@ Data
 ├── Super_Class_Dir_1
 │   ├── Sub_Class_File_1
 │   ├── Sub_Class_File_2
-|   └── . . .
+│   └── . . .
 ├── Super_Class_Dir_2
 │   ├── Sub_Class_File_1
 │   ├── Sub_Class_File_2
-|   └── . . .
-|
-|    . . .
-|
+│   └── . . .
+│
+│    . . .
+│
 └── Super_Class_Dir_3
     ├── Sub_Class_File_1
     ├── Sub_Class_File_2
